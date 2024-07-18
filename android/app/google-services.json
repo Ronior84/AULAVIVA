@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "528367521828",
+    "project_id": "aulaviva-bcea5",
+    "storage_bucket": "aulaviva-bcea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528367521828:android:2bff4ec8cc75b785e208b1",
+        "android_client_info": {
+          "package_name": "com.company.aulaviva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528367521828-11jkm796cn6c3kf5e3mf5bcatog4lvlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.aulaviva",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "528367521828-5tves176ukflrg1kvbip4ubf63ps3j6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.aulaviva",
+            "certificate_hash": "54ee2c9ebe1411253d0e8bd2d7a1cc477778c38b"
+          }
+        },
+        {
+          "client_id": "528367521828-hv0kb6etn0561hegi8a1d9bb0ss8mj4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiP3revnebYuz3FFfJFaRBjJuR0Q_ok80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528367521828-g55grq56gnnjnq6cbru281046mtgnngu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528367521828-h6bj9ed8btc9d46kv4ovk9t1sr00uhil.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.education"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
